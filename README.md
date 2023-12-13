@@ -18,7 +18,7 @@ Title derived from original captions on the work by the creator. If the original
 ### Name
 Individual(s) or corporate entities that created or are associated with the work. 
 
-Common names seen in the collection include:  Penang/Sumatra, Indonesia; Singapore; Rubber; Manila, Philippines
+Common names seen in the collection include:  [Miller, Leroy H.]; [The Bray Studios]
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
 
